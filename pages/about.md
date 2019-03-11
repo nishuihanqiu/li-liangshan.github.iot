@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 一起走过的日子，追梦求圆。
+keywords: Liangshan Li, 李良山
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+如果可以的话，我愿一生一世陪伴你，
 
-仰慕「优雅编码的艺术」。
+可是现在我只能一心一意的追求你，
 
-坚信熟能生巧，努力改变人生。
+每一分每一秒都会想着你^@^。
 
 ## 联系
 

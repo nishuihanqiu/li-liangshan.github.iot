@@ -127,10 +127,10 @@ print 'Hello, World!'
 ### 图片
 
 ```
-![本站favicon](/favicon.ico)
+![本站favicon](/favicon.png)
 ```
 
-![本站favicon](/favicon.ico)
+![本站favicon](/favicon.png)
 
 ### 锚点
 

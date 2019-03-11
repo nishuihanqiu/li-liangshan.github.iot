@@ -290,17 +290,17 @@ Markdown 支持行内式链接和引用式链接。
 **Markdown：**
 
 ```
-![Alt text](https://mazhuang.org/favicon.ico "favicon")
+![Alt text](https://mazhuang.org/favicon.png "favicon")
 ```
 
 **预览效果：**
 
-![Alt text](https://mazhuang.org/favicon.ico "favicon")
+![Alt text](https://mazhuang.org/favicon.png "favicon")
 
 **对应 HTML：**
 
 ```html
-<img src="https://mazhuang.org/favicon.ico" alt="Alt text" title="favicon">
+<img src="https://mazhuang.org/favicon.png" alt="Alt text" title="favicon">
 ```
 
 ### 列表
