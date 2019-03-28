@@ -96,16 +96,18 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: li-liangshan
-    repo: blog-comments
+    repo: li-liangshan.github.io
     oauth:
         client_id: 9f18a5c9a7d21b2bf1b8
         client_secret: ddca10c247f86ae2b3129de62551a07cf716d303
 # https://github.com/gitalk/gitalk#install
 gitalk:
+    enable: true
     owner: li-liangshan
-    repo: blog-comments
+    repo: li-liangshan.github.io
     clientID: 9f18a5c9a7d21b2bf1b8
     clientSecret: ddca10c247f86ae2b3129de62551a07cf716d303
+    distractionFreeMode: true
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
